@@ -1,0 +1,14 @@
+.git
+.gitignore
+.DS_Store
+node_modules
+npm-debug.log
+.env
+.env.local
+.idea
+.vscode
+*.swp
+*.swo
+*~
+.terraform
+.AWS
